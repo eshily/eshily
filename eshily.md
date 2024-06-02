@@ -1,4 +1,4 @@
 ## Hello! I'm Eshily Aguiar
 ![Eshily's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshily&theme=radical)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshily&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshily)](https://github.com/eshily/github-readme-stats)
 
