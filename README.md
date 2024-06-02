@@ -20,9 +20,8 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( www.linkedin.com/in/eshily-aguiar-coelho-♾️🌻-1bbb62270)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=  www.linkedin.com/in/eshily-aguiar-coelho-♾️🌻-1bbb62270)]( www.linkedin.com/in/eshily-aguiar-coelho-♾️🌻-1bbb62270)
 
 - Thanks for visiting.
 
